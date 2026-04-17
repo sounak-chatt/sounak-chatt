@@ -95,7 +95,7 @@ Database-driven LMS where business logic lives in the **database**, not just the
 
 - 📧 chattsounak@gmail.com
 - 🌐 Portfolio: [sounakchatterjee.github.io](https://sounak-chatt.github.io/sounakchatterjee.github.io)
-- 💼 [LinkedIn](https://linkedin.com/sounak-chatterjee-4809a2281/) · [GitHub](https://github.com/sounak-chatt)
+- 💼 [LinkedIn](https://www.linkedin.com/in/sounak-chatterjee-4809a2281/) · [GitHub](https://github.com/sounak-chatt)
 - 📍 Kolkata, India · Open to internship opportunities
 
 ---
