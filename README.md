@@ -99,5 +99,3 @@ Database-driven LMS where business logic lives in the **database**, not just the
 - 📍 Kolkata, India · Open to internship opportunities
 
 ---
-
-*"Don't just store data. Make the database do the work."*
